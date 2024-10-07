@@ -1,4 +1,7 @@
-## Hi there 👋
+## Afiq Nadzmi⚪🔴⚫
+![garnacho](https://github.com/user-attachments/assets/0324e1e8-958d-4e28-8251-e4aa0da41b48)
+
+I’m a software engineering student and a full-time Manchester United supporter. I’m currently exploring possible career pathways I can pursue after finishing my studies—perhaps becoming a developer, IT expert, entering business, or even becoming a celebrity (who knows?). My GitHub profile reflects the small steps I’m taking to create software projects that shape who I am now and who I will be in the future.
 
 <!--
 **afiqnadzmii/afiqnadzmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
